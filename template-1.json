@@ -1,6 +1,6 @@
 {
     "status":"success",
     "component":{
-        "data":"template from github"
+        "data":"template from github <change>"
     }
 }
